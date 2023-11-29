@@ -1,7 +1,7 @@
 # mysql（linux）  
  
 ## 外部指令
-查看数据库状态: 11111 
+查看数据库状1态:  
   
     systemctl status mysql  
 
